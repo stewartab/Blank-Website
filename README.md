@@ -11,7 +11,7 @@ Updates:
 - sections
 ```
 
-# Resources
+### Resources
 
 HTML: https://youtu.be/qz0aGYrrlhU \
 CSS: https://www.w3schools.com/css/
